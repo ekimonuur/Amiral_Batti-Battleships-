@@ -21,5 +21,6 @@ Amiral Battı oyunu  Single Player olarak oynanmaktadır.
 -------********--------
 Oyunda harita oluşturma, haritaya gemileri yerleştirme, atış yapma ve sonuç belirten fonksiyonlar çalışmaktadır.
 Tek çalışmayan işlev bilgisayarın atış yapma algoritmasıdır. Bu algoritamada amacım satırları tek tek ele alarak , her satır içerisinde 1 değerini yani gemi olduğunu bulduğu anda
-o satır içerisini girerek her el de doğru atışı yapma şansını en az yüzde 20 ye çıkarmıştır. Choice metodu ile satır içerisinden rastgele değer alınmışıtr. Daha hızlı bulunması için farklı bir algoritma gelişrilebilirdi ama ben oyunun daha uzun sürmesi için bu yolu seçtim. Bu algoritma olmadan düz bir şekilde maksimum yüzde 5'tir. Satır içerisinde birden çok 1 değeri var ise bu oran daha da artar. 
+o satır içerisini girerek her el de doğru atışı yapma şansını en az yüzde 20 ye çıkarmıştır. Choice metodu ile satır içerisinden rastgele değer alınmışıtr. Daha hızlı bulunması için farklı bir algoritma gelişrilebilirdi ama ben oyunun daha uzun sürmesi için bu yolu seçtim. Bu algoritma olmadan düz bir şekilde maksimum yüzde 5'tir. Satır içerisinde birden çok 1 değeri var ise bu oran daha da artar.  
+ Hazır bir algoritama ya da arama algoritması kullanmadım. Kendi algoritmamı yaratarak akıllı bir bilgisayar oyuncusu yaratmaya çalıştım.
 -- Programda class kullanmadım. Classlar ile de aynı şekilde yapabilir.
